@@ -1,0 +1,2 @@
+0 O arquivo teste-teste.txt não é um documento valido de acordo com as regras de negocio.
+0 O arquivo teste-teste.txt não é um documento valido de acordo com as regras de negocio.
